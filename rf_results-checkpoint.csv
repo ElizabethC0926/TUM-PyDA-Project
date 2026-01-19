@@ -1,0 +1,2 @@
+model,roc_auc_mean,roc_auc_std,accuracy_mean,f1_mean
+Random Forest,0.5173,0.011566,0.552966,0.698033
