@@ -1,0 +1,2 @@
+model,roc_auc_mean,roc_auc_std,accuracy_mean,f1_mean
+XGBoost,0.5155,0.0044,0.5066,0.5034
